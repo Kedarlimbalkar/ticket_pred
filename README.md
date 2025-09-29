@@ -1,6 +1,7 @@
 # ticket_pred
 
 Customer Support Ticket Auto-Triage 🤖
+
 This project implements an advanced machine learning solution focused on revolutionizing customer support through intelligent ticket classification and automated routing systems.
 
 The core mission is to 
